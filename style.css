@@ -1,0 +1,28 @@
+body{
+    background: rgb(210, 188, 148);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 40px;
+}
+.main{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 50vb;
+}
+.display{
+    border: 2px solid black;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+
+}
+.input{
+    border: 2px solid black;
+}
